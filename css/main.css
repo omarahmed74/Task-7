@@ -1,0 +1,11 @@
+body{
+    background-color: #000040;
+    color: white;
+}
+
+.card{
+    background-color:#404040;
+    color: white;
+    font-weight: 900;
+    margin: 20px 0px;
+}
